@@ -3,7 +3,6 @@
 #include "podofo.h"
 #include <iostream>
 #include <vector>
-#include "PDFHelperFuncs.h"
 
 void printUsage() {
 	std::cout << "Wrong usage of the program. Please see the following\n";
